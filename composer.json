@@ -1,0 +1,22 @@
+{
+    "name": "aliyun-sdk/aliyun-sdk",
+    "description": "阿里云视屏点播服务端上传SDK",
+    "type": "project",
+    "require": {
+        "php": "^7.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "guanguans",
+            "email": "yzmguanguan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+
+    "autoload": {
+        "psr-4": {
+            "Guanguans\\": "src/"
+        }
+    }
+}
